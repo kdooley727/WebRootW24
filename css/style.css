@@ -1,0 +1,21 @@
+#body {
+    border: black;
+    border-style: dotted;
+    width: fit-content;
+}
+
+#summary {
+    border: black;
+    border-style: solid;
+    width: fit-content;
+    font-weight: bold;
+}
+
+body {
+    background-color: aqua;
+}
+
+.foo {
+    background-color: lightcyan;
+}
+
